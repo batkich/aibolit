@@ -1,0 +1,13 @@
+.team__button {
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 0;
+    box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.2);
+    background: rgb(255, 197, 158);
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 22px;
+    padding: 0;
+}

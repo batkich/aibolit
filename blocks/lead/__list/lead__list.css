@@ -1,0 +1,8 @@
+.lead__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    list-style-type: none;
+    padding-top: 197px;
+    gap: 50px;
+}

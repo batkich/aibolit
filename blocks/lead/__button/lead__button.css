@@ -1,0 +1,15 @@
+.lead__button {
+    width: 285px;
+    height: 67px;
+    border-radius: 33.5px;
+    box-shadow: 0px 4px 20px 0px rgb(255, 197, 158);
+    background: rgb(255, 197, 158);
+    color: rgb(255, 255, 255);
+    font-family: "FuturaNew", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border: 0;
+}

@@ -1,0 +1,18 @@
+@font-face {
+    src: url("../font-face/SchoolBook.woff2") format('woff2');
+    src: url("../font-face/SchoolBook.woff") format('woff');
+    font-family: "SchoolBook";
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+  }
+
+  @font-face {
+    src: url("../font-face/FuturaNew.woff") format('woff');
+    src: url("../font-face/FuturaNew.woff2") format('woff2');
+    font-family: "FuturaNew";
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+  }
+  

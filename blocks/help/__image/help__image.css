@@ -1,0 +1,7 @@
+.help__image {
+    object-fit: contain;
+    position: absolute;
+    bottom: -155px;
+    right: 135px;
+    z-index: 2;
+}

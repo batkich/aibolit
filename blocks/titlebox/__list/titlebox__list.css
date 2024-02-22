@@ -1,0 +1,8 @@
+.titlebox__list {
+    width: 22%;
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding-left: 2%;
+    gap: 50px;
+}

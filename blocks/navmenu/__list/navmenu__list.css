@@ -1,0 +1,11 @@
+.navmenu__list {
+    display: flex;
+    list-style-type: none;
+    text-transform: uppercase;
+    gap: 80px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0px;
+    color: rgb(195, 185, 181);
+}

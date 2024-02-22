@@ -1,0 +1,5 @@
+.navmenu-location {
+    display: flex;
+    gap: 19px;
+    align-items: center;
+}
