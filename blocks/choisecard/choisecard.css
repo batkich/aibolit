@@ -1,0 +1,7 @@
+.choisecard {
+    max-width: 484px;
+    display: grid;
+    grid-template-rows: 40px auto;
+    grid-template-columns: repeat(2, auto);
+    gap: 36px 53px;
+}

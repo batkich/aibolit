@@ -1,0 +1,5 @@
+.application {
+    background-color: rgb(255, 197, 158);
+    display: flex;
+    position: relative;
+}

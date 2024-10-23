@@ -1,0 +1,7 @@
+.footer__logobox {
+    width: 23%;
+    display: grid;
+    grid-template-rows: 70px 20px auto;
+    grid-template-columns: 25% 75%;
+    column-gap: 22px;
+}

@@ -1,0 +1,7 @@
+.footer__mailbox {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: "FuturaNew";
+    padding-bottom: 70px;
+}

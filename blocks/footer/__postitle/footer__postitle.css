@@ -1,0 +1,10 @@
+.footer__postitle {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    justify-self: start;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+}

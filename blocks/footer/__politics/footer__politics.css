@@ -1,0 +1,12 @@
+.footer__politics {
+    grid-column: 2/3;
+    grid-row: 3/4;
+    max-width: 230px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-decoration: none;
+    padding-top: 29px;
+}

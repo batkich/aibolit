@@ -1,0 +1,6 @@
+.application__box {
+    display: flex;
+    flex-direction: column;
+    padding: 251px 0 346px 0;
+    padding-left: 230px;
+}

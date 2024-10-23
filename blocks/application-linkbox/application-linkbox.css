@@ -1,0 +1,5 @@
+.application-linkbox {
+    max-width: 35%;
+    display: flex;
+    gap: 17px;
+}

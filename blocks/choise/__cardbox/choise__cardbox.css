@@ -1,0 +1,10 @@
+.choise__cardbox {
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 94px 70px;
+    padding-bottom: 309px;
+    justify-content: center;
+}

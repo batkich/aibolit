@@ -3,6 +3,7 @@
     flex-direction: row;
     justify-content: flex-start;
     list-style-type: none;
-    padding-top: 197px;
+    padding-top: 40px;
+    padding-bottom: 30px;
     gap: 50px;
 }

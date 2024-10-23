@@ -1,0 +1,6 @@
+.contacts {
+    display: flex;
+    padding: 235px 230px 209px 230px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

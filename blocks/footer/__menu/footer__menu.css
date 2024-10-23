@@ -1,0 +1,8 @@
+.footer__menu {
+    width: 25%;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    gap: 100px;
+    padding-top: 120px;
+}

@@ -1,0 +1,9 @@
+.application__image {
+    max-width: 475px;
+    position: absolute;
+    top: 34%; 
+    right: 27%;
+    object-fit: contain;
+    transform: rotate(2.00deg);
+    display: flex;
+}

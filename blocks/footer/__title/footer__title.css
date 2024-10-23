@@ -1,0 +1,12 @@
+.footer__title {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    justify-self: start;
+    align-self: center;
+    color: rgb(255, 255, 255);
+    font-family: "SchoolBook", sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 46px;
+    letter-spacing: 0px;
+}

@@ -1,0 +1,10 @@
+.choisecard__text {
+    grid-row: 2/3;
+    grid-column: 2/3;
+    color: rgb(89, 68, 63);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    align-self: start;
+}

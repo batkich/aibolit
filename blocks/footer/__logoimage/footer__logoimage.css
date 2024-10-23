@@ -1,0 +1,5 @@
+.footer__logoimage {
+    object-fit: contain;
+    width: 70%;
+    padding-right: 5%;
+}

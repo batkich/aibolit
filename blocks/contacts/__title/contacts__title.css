@@ -1,0 +1,10 @@
+.contacts__title {
+    width: 100%;
+    color: rgb(8, 6, 6);
+    font-family: "SchoolBook", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0px;
+    padding-bottom: 70px;
+}
